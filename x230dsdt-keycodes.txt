@@ -1,0 +1,13 @@
+EC Query:
+Microphone Mute => _Q6A
+ThinkVantage => _Q19
+Fn+F1 => _Q10
+Fn+F2 => _Q11
+Fn+F3 => _Q12
+Fn+F4 => _Q13
+Fn+F5 => _Q64
+Fn+F6 => _Q65
+Fn+F7 => _Q16
+Fn+F8 => _Q15
+Fn+F9 => _Q64
+
